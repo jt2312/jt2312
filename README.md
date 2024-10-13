@@ -17,8 +17,10 @@ Hola soy Julian, un software Developer en constante aprendizaje. Tengo un gran e
 • Scrum
 
 ## Proyectos Destacados
-➢ 
-➢ 
+➢ Aplicacion TurnosReady! - Proyecto personal de la Tecnicatura.
+➢ Aplicacion Budget.io - Proyecto MVP Final Tecnicatura
+➢ Proyecto Ecommerce - Shoppclick!
+➢ Simulacion No country! - Patitas
 
 ## Contacto
 Si estás buscando una persona para colaborar/trabajar en proyectos o simplemente deseas charlar y compartir conocimientos, no dudes en contactarme. Podes encontrarme en LinkedIn a través de este enlace:
