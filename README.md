@@ -1,4 +1,4 @@
-![Hola!](images/profileimage.png)
+![Hola!](images/profileimage2.png)
 
 # ¡Bienvenidos a mi perfil de GitHub! 👋
 
