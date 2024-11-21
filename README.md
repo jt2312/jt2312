@@ -27,8 +27,10 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 
 ➢ Simulacion No country! - Patitas.
 
+➢ Hackaton No country! - Waki.
+
 ## Aprendiendo..  
-Actualmente estoy en una hackaton de 5 semanas, desarrollando un MVP en el sector de SporTech como Backend developer (.NET).  
+Actualmente estoy Simulacion laboral de 5 semanas, desarrollando un MVP como Backend developer (.NET).  
 
 
 ## Contacto
