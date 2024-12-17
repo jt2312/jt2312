@@ -25,13 +25,12 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 
 ➢ Proyecto Ecommerce - Shoppclick!
 
-➢ Simulacion No country! - Patitas.
+➢ Simulacion No country! - FreeConnect.
 
 ➢ Hackaton No country! - Waki.
 
 ## Aprendiendo..  
 Actualmente estoy Simulacion laboral de 5 semanas, desarrollando un MVP como Backend developer (.NET).  
-
 
 ## Contacto
 Si estás buscando una persona para colaborar/trabajar en proyectos o simplemente deseas charlar y compartir conocimientos, no dudes en contactarme. Podes encontrarme en LinkedIn a través de este enlace:
