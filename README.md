@@ -3,8 +3,8 @@
 # ¡Bienvenidos a mi perfil de GitHub! 👋
 
 ## Acerca de mi
-Hola soy Julian, un software Developer en constante aprendizaje. Tengo un gran entusiasmo por la lógica, la organizacion, todo lo que me desafie y me ponga a prueba.
-Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso de mis habilidades blandas. Actualmente, estoy buscando oportunidades laborales como desarrollador Back-end. 
+Hola soy Julian, un Analista en Sistemas en constante aprendizaje. Tengo un gran entusiasmo por la lógica, la organizacion, todo lo que me desafie y me ponga a prueba.
+Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso de mis habilidades blandas. Actualmente, estoy buscando oportunidades laborales en el sector IT. 
 
 ## Tecnologias y Metodologias
 
@@ -25,12 +25,13 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 
 ➢ Proyecto Ecommerce - Shoppclick!
 
-➢ Simulacion No country! - FreeConnect.
+➢ Simulacion No country! - Urbania y FreeConnect.
 
 ➢ Hackaton No country! - Waki.
 
 ## Aprendiendo..  
-Actualmente estoy Simulacion laboral de 5 semanas, desarrollando un MVP como Backend developer (.NET).  
+Actualmente estoy cursando la Licenciatura en tecnologias de la Informacion
+
 
 ## Contacto
 Si estás buscando una persona para colaborar/trabajar en proyectos o simplemente deseas charlar y compartir conocimientos, no dudes en contactarme. Podes encontrarme en LinkedIn a través de este enlace:
