@@ -8,15 +8,15 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 
 ## Tecnologias y Metodologias
 
-• C# 
-• ASPNET Core 
-• Blazor - Razor 
-• JavaScript 
-• HTML y CSS 
+• C#. 
+• ASPNET Core. 
+• Blazor - Razor. 
+• JavaScript. 
+• HTML y CSS.
 
-• SQL Server - MySQL
-• Control de versiones: Git, GitHub
-• Scrum
+• SQL Server - MySQL.
+• Control de versiones: Git, GitHub.
+• Scrum, Kanban.
 
 ## Proyectos Destacados
 ➢ Aplicacion TurnosReady! - Proyecto personal de la Tecnicatura.
@@ -30,8 +30,7 @@ Me gusta y me siento cómodo trabajando en equipo, donde se que puedo hacer uso 
 ➢ Hackaton No country! - Waki.
 
 ## Aprendiendo..  
-Actualmente estoy cursando la Licenciatura en tecnologias de la Informacion
-
+Actualmente estoy cursando la Licenciatura en tecnologias de la Informacion.
 
 ## Contacto
 Si estás buscando una persona para colaborar/trabajar en proyectos o simplemente deseas charlar y compartir conocimientos, no dudes en contactarme. Podes encontrarme en LinkedIn a través de este enlace:
